@@ -1,0 +1,9 @@
+# Ignore Python backend from Vercel so it never attempts FastAPI serverless builds
+requirements.txt
+backend/
+ai/
+models/
+scripts/
+database/
+.venv/
+demo/evidence/
