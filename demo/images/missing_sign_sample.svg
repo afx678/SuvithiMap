@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="100%" height="100%">
+  <rect width="640" height="360" fill="#1c1c1a"/>
+  <polygon points="260,120 380,120 640,360 0,360" fill="#2b2b27"/>
+  <!-- Empty Sign Post -->
+  <line x1="490" y1="160" x2="490" y2="310" stroke="#706e68" stroke-width="6"/>
+  <circle cx="490" cy="150" r="32" fill="none" stroke="#D96B55" stroke-width="3" stroke-dasharray="6,4"/>
+  <line x1="468" y1="150" x2="512" y2="150" stroke="#D96B55" stroke-width="3"/>
+  <rect x="445" y="105" width="90" height="85" fill="none" stroke="#D96B55" stroke-width="2"/>
+  <rect x="410" y="80" width="170" height="22" fill="#D96B55"/>
+  <text x="416" y="96" fill="#FFFFFF" font-family="monospace" font-size="11" font-weight="bold">MISSING STOP SIGN</text>
+  <rect x="10" y="10" width="370" height="52" fill="#11110F" rx="4" stroke="#34332F"/>
+  <text x="20" y="28" fill="#F2EFE8" font-family="monospace" font-size="12">UNIT: BUS DL-101 (R-419) | 28.6135 N, 77.2085 E</text>
+  <text x="20" y="48" fill="#F1C46A" font-family="monospace" font-size="11">SIMULATED EVIDENCE (INFRASTRUCTURE AUDIT)</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="100%" height="100%">
+  <rect width="640" height="360" fill="#1c1c1a"/>
+  <polygon points="260,120 380,120 640,360 0,360" fill="#292925"/>
+  <!-- Alligator Cracks -->
+  <path d="M220,240 L260,250 L280,230 L310,255 L350,235 L390,260 L350,280 L290,270 L250,290 L220,270 Z" fill="#171715" stroke="#D99A3D" stroke-width="2.5"/>
+  <line x1="260" y1="250" x2="290" y2="270" stroke="#D99A3D" stroke-width="2"/>
+  <line x1="280" y1="230" x2="350" y2="280" stroke="#D99A3D" stroke-width="1.5"/>
+  <line x1="310" y1="255" x2="250" y2="290" stroke="#D99A3D" stroke-width="2"/>
+  <rect x="210" y="220" width="190" height="80" fill="none" stroke="#D99A3D" stroke-width="2" stroke-dasharray="5,3"/>
+  <rect x="210" y="198" width="160" height="22" fill="#D99A3D"/>
+  <text x="216" y="214" fill="#11110F" font-family="monospace" font-size="12" font-weight="bold">ALLIGATOR CRACK 88%</text>
+  <rect x="10" y="10" width="370" height="52" fill="#11110F" rx="4" stroke="#34332F"/>
+  <text x="20" y="28" fill="#F2EFE8" font-family="monospace" font-size="12">UNIT: BUS DL-201 (R-502) | 28.5834 N, 77.2104 E</text>
+  <text x="20" y="48" fill="#F1C46A" font-family="monospace" font-size="11">SIMULATED EVIDENCE (MUNICIPAL VERIFICATION)</text>
+</svg>
